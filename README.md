@@ -7,5 +7,7 @@
 vue+vue-resource+vue-router
 
 效果图：
+![](https://github.com/G-shitou/game-vue/blob/master/static/index.png)
+![](https://github.com/G-shitou/game-vue/blob/master/static/game.png)
 
 
